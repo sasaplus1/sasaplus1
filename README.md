@@ -1,3 +1,6 @@
+[![sasaplus1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasaplus1&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasaplus1&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 ## JavaScript Library
 
 - [deepcopy.js](https://github.com/sasaplus1/deepcopy.js)
